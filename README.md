@@ -105,23 +105,15 @@ Exploring how useful AI systems can become more adaptive, more reliable and easi
 
 <div align="center">
   <img src="./assets/profile/final-wave.svg" width="100%" alt="A minimal tropical wave with subtle technical data paths." />
-
-  <br />
-
-  <strong>Built with engineering discipline, tropical curiosity and a refusal to make technology more complicated than it needs to be.</strong>
-
-  <br /><br />
-
-  <strong>Derya Sarikaya</strong><br />
-  Automotive Engineer × AI Builder × Free Mind
-
-  <br /><br />
-
-  <a href="https://www.linkedin.com/in/deryasarikaya">LinkedIn</a>
-  &nbsp; · &nbsp;
-  <a href="https://deryasarikaya.ai">Personal website</a>
-  &nbsp; · &nbsp;
-  <a href="mailto:deryaxsarikaya@gmail.com">Email</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/deryasarikaya?tab=repositories">GitHub repositories</a>
+  <p><strong>Built with engineering discipline, tropical curiosity and a refusal to make technology more complicated than it needs to be.</strong></p>
+  <p><strong>Derya Sarikaya</strong><br />Automotive Engineer × AI Builder × Free Mind</p>
+  <p>
+    <a href="https://www.linkedin.com/in/deryasarikaya">LinkedIn</a>
+    &nbsp; · &nbsp;
+    <a href="https://deryasarikaya.ai">Personal website</a>
+    &nbsp; · &nbsp;
+    <a href="mailto:deryaxsarikaya@gmail.com">Email</a>
+    &nbsp; · &nbsp;
+    <a href="https://github.com/deryasarikaya?tab=repositories">GitHub repositories</a>
+  </p>
 </div>
