@@ -17,7 +17,7 @@
       <p><strong>Living and working across different countries has shaped how I think: adaptable, curious and rarely satisfied with the obvious solution.</strong></p>
       <p><strong>I think in connections, move between worlds and rarely follow the obvious path.</strong></p>
     </td>
-    <td width="34%" align="center" valign="middle">
+    <td width="34%" align="center" valign="top">
       <img
         src="./assets/profile/identity-panel.webp"
         width="100%"
