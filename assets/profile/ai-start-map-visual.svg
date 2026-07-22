@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">AI Start Map</title>
+  <desc id="desc">A clear route emerges from connected workflow nodes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#123D35"/><stop offset="1" stop-color="#0F7F75"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="300" rx="28" fill="url(#bg)"/>
+  <g opacity=".11" stroke="#FFF8EC" fill="none">
+    <path d="M0 48h1200M0 108h1200M0 168h1200M0 228h1200M120 0v300M300 0v300M480 0v300M660 0v300M840 0v300M1020 0v300"/>
+  </g>
+  <g opacity=".12" fill="#071E1A"><path d="M1120 300c-6-94-4-152 18-212 13 61 29 122 62 158v54z"/><path d="M1080 48c48 12 71 38 81 81-35-22-65-32-100-29 34-19 68-24 102-12-17-27-42-42-83-40z"/></g>
+  <path d="M91 214C176 210 180 92 301 103s143 103 259 72 148-116 261-71 135 122 283 70" fill="none" stroke="#FFF8EC" stroke-width="8" opacity=".12" stroke-linecap="round"/>
+  <path d="M91 214C176 210 180 92 301 103s143 103 259 72 148-116 261-71 135 122 283 70" fill="none" stroke="#1EB8AE" stroke-width="4" stroke-linecap="round" stroke-dasharray="9 15">
+    <animate attributeName="stroke-dashoffset" values="0;-48" dur="5s" repeatCount="indefinite"/>
+  </path>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif" text-anchor="middle">
+    <g transform="translate(91 214)"><circle r="27" fill="#FFF8EC"/><circle r="11" fill="#E87961"/><text y="54" fill="#FFF8EC" font-size="14" letter-spacing="1">REAL PROBLEM</text></g>
+    <g transform="translate(301 103)"><circle r="24" fill="#123D35" stroke="#1EB8AE" stroke-width="4"/><circle r="7" fill="#1EB8AE"/><text y="52" fill="#FFF8EC" font-size="14" letter-spacing="1">WORKFLOW</text></g>
+    <g transform="translate(560 175)"><circle r="24" fill="#123D35" stroke="#E4B866" stroke-width="4"/><circle r="7" fill="#E4B866"/><text y="52" fill="#FFF8EC" font-size="14" letter-spacing="1">SIGNALS</text></g>
+    <g transform="translate(821 104)"><circle r="24" fill="#123D35" stroke="#1EB8AE" stroke-width="4"/><circle r="7" fill="#1EB8AE"/><text y="52" fill="#FFF8EC" font-size="14" letter-spacing="1">OPPORTUNITY</text></g>
+    <g transform="translate(1104 174)" filter="url(#glow)"><circle r="30" fill="#E4B866"/><path d="M-11 1l8 8 17-20" fill="none" stroke="#123D35" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><text y="58" fill="#FFF8EC" font-size="14" letter-spacing="1">CLEAR START</text></g>
+  </g>
+</svg>

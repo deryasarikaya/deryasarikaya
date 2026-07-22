@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" role="img" aria-labelledby="title desc">
+  <title id="title">Three parts of one identity</title>
+  <desc id="desc">Automotive engineer, AI product builder and free mind.</desc>
+  <rect width="1200" height="150" rx="28" fill="#FFF8EC"/>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="750" font-size="18" letter-spacing="2" text-anchor="middle">
+    <g transform="translate(54 32)">
+      <path d="M0 43C0 19 19 0 43 0h275c24 0 43 19 43 43s-19 43-43 43H43C19 86 0 67 0 43z" fill="none" stroke="#123D35" stroke-width="2"/>
+      <circle cx="38" cy="43" r="9" fill="#E4B866"/><path d="M34 43h8M38 39v8" stroke="#123D35" stroke-width="2"/>
+      <text x="194" y="50" fill="#123D35">AUTOMOTIVE ENGINEER</text>
+    </g>
+    <g transform="translate(420 32)">
+      <path d="M0 43C0 19 19 0 43 0h318c24 0 43 19 43 43s-19 43-43 43H43C19 86 0 67 0 43z" fill="#123D35"/>
+      <path d="M35 49l12-13 12 13m-12-13v23" fill="none" stroke="#1EB8AE" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="220" y="50" fill="#FFF8EC">AI PRODUCT BUILDER</text>
+    </g>
+    <g transform="translate(829 32)">
+      <path d="M0 43C0 19 19 0 43 0h274c24 0 43 19 43 43s-19 43-43 43H43C19 86 0 67 0 43z" fill="none" stroke="#0F7F75" stroke-width="2"/>
+      <path d="M35 50c7-19 17-19 26 0-9-6-17-6-26 0z" fill="#E87961"/>
+      <text x="202" y="50" fill="#123D35">FREE MIND</text>
+    </g>
+  </g>
+</svg>

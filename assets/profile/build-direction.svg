@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc">
+  <title id="title">Current build direction</title>
+  <desc id="desc">A flowing roadmap through six areas of practical AI.</desc>
+  <defs><linearGradient id="road" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#1EB8AE"/><stop offset=".52" stop-color="#E4B866"/><stop offset="1" stop-color="#E87961"/></linearGradient></defs>
+  <rect width="1200" height="620" rx="30" fill="#123D35"/>
+  <path d="M178 0c-27 75-25 136 20 194s20 129-13 183-23 145 20 243" fill="none" stroke="#FFF8EC" stroke-width="70" opacity=".04"/>
+  <path d="M178 42c-25 76 83 80 58 162s-88 84-41 166 99 86 52 204" fill="none" stroke="url(#road)" stroke-width="5" stroke-linecap="round" stroke-dasharray="8 13">
+    <animate attributeName="stroke-dashoffset" values="0;-42" dur="6s" repeatCount="indefinite"/>
+  </path>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <g transform="translate(178 74)"><circle r="24" fill="#1EB8AE"/><text x="72" y="9" fill="#FFF8EC" font-size="29" font-weight="760">AI agents</text></g>
+    <g transform="translate(236 178)"><circle r="22" fill="#0F7F75" stroke="#FFF8EC" stroke-width="3"/><text x="72" y="9" fill="#FFF8EC" font-size="29" font-weight="760">RAG</text></g>
+    <g transform="translate(191 277)"><circle r="24" fill="#E4B866"/><text x="72" y="9" fill="#FFF8EC" font-size="29" font-weight="760">Voice-first AI</text></g>
+    <g transform="translate(213 375)"><circle r="22" fill="#E4B866" stroke="#FFF8EC" stroke-width="3"/><text x="72" y="9" fill="#FFF8EC" font-size="29" font-weight="760">Structured outputs</text></g>
+    <g transform="translate(263 472)"><circle r="24" fill="#E87961"/><text x="72" y="9" fill="#FFF8EC" font-size="29" font-weight="760">Function calling</text></g>
+    <g transform="translate(247 566)"><circle r="26" fill="#FFF8EC"/><circle r="11" fill="#E87961"/><text x="72" y="-6" fill="#FFF8EC" font-size="29" font-weight="760">Practical AI automation</text><text x="72" y="23" fill="#FFF8EC" font-size="18" opacity=".7">for small businesses</text></g>
+  </g>
+  <g transform="translate(838 104)" opacity=".18" fill="none" stroke="#1EB8AE" stroke-width="2">
+    <circle cx="0" cy="0" r="48"/><circle cx="0" cy="0" r="95"/><circle cx="0" cy="0" r="145"/>
+    <path d="M-145 0h290M0-145v290"/><circle cx="0" cy="0" r="10" fill="#1EB8AE"/>
+  </g>
+  <g transform="translate(896 440)" stroke="#FFF8EC" opacity=".12" fill="none"><path d="M-180 56h92l55-55h93l52-52h115" stroke-width="3"/><g fill="#FFF8EC"><circle cx="-180" cy="56" r="6"/><circle cx="-88" cy="56" r="6"/><circle cx="-33" cy="1" r="6"/><circle cx="60" cy="1" r="6"/><circle cx="112" cy="-51" r="6"/><circle cx="227" cy="-51" r="6"/></g></g>
+</svg>

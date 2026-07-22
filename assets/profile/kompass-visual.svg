@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Kompass</title>
+  <desc id="desc">A natural voice signal becomes a calm, explainable timeline.</desc>
+  <rect width="1200" height="300" rx="28" fill="#FFF8EC"/>
+  <path d="M0 234c130-52 248-9 371 2s231-52 362-22 265 51 467-18v104H0z" fill="#0F7F75" opacity=".1"/>
+  <g transform="translate(65 47)">
+    <rect width="1070" height="206" rx="24" fill="#123D35"/>
+    <circle cx="72" cy="103" r="34" fill="#E87961"/><path d="M72 84v35m-14-17v8a14 14 0 0 0 28 0v-8M62 84a10 10 0 0 1 20 0v18a10 10 0 0 1-20 0z" fill="none" stroke="#FFF8EC" stroke-width="4" stroke-linecap="round"/>
+    <g transform="translate(137 71)" fill="#1EB8AE">
+      <rect x="0" y="26" width="7" height="12" rx="4"/><rect x="15" y="16" width="7" height="32" rx="4"/><rect x="30" y="2" width="7" height="60" rx="4"/><rect x="45" y="20" width="7" height="24" rx="4"/><rect x="60" y="10" width="7" height="44" rx="4"/><rect x="75" y="24" width="7" height="16" rx="4"/><rect x="90" y="13" width="7" height="38" rx="4"/><rect x="105" y="4" width="7" height="56" rx="4"/><rect x="120" y="20" width="7" height="24" rx="4"/>
+      <animateTransform attributeName="transform" additive="sum" type="scale" values="1 1;1 1.12;1 1" dur="3s" repeatCount="indefinite"/>
+    </g>
+    <path d="M310 103h78" stroke="#E4B866" stroke-width="3" stroke-linecap="round" stroke-dasharray="5 8"/>
+    <g transform="translate(401 45)" font-family="Inter,Segoe UI,Arial,sans-serif">
+      <path d="M0 58h590" stroke="#1EB8AE" stroke-width="3"/>
+      <g>
+        <circle cx="0" cy="58" r="10" fill="#E87961"/><circle cx="142" cy="58" r="10" fill="#1EB8AE"/><circle cx="294" cy="58" r="10" fill="#E4B866"/><circle cx="438" cy="58" r="10" fill="#1EB8AE"/><circle cx="590" cy="58" r="10" fill="#E87961"/>
+        <circle cx="294" cy="58" r="18" fill="none" stroke="#E4B866" opacity=".55"><animate attributeName="r" values="13;22;13" dur="4s" repeatCount="indefinite"/></circle>
+      </g>
+      <g fill="#FFF8EC" font-size="14" text-anchor="middle" letter-spacing="1">
+        <text x="0" y="101">MOOD</text><text x="142" y="101">ENERGY</text><text x="294" y="101">SLEEP</text><text x="438" y="101">STRESS</text><text x="590" y="101">EVENTS</text>
+      </g>
+    </g>
+    <text x="235" y="165" fill="#FFF8EC" opacity=".62" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="1.4">VOICE, STRUCTURED OVER TIME</text>
+  </g>
+</svg>
