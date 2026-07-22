@@ -32,13 +32,13 @@
       <a href="https://github.com/deryasarikaya/AI-Start-Map"><img src="./assets/profile/project-ai-start-map.webp" width="100%" alt="AI Start Map project — open repository" /></a>
       <br>
       <a href="https://github.com/deryasarikaya/AI-Start-Map"><img src="./assets/profile/button-repository.webp" width="48%" alt="Open AI Start Map repository" /></a>
-      <img src="./assets/profile/button-live-demo.webp" width="46%" alt="AI Start Map live demo — coming soon" title="Coming soon" />
+      <a href="https://deryasarikaya.ai"><img src="./assets/profile/button-live-demo.webp" width="46%" alt="AI Start Map live demo — coming soon" title="Coming soon" /></a>
     </td>
     <td width="33.33%" align="center" valign="top">
       <a href="https://github.com/deryasarikaya/Kompass"><img src="./assets/profile/project-kompass.webp" width="100%" alt="Kompass project — open repository" /></a>
       <br>
       <a href="https://github.com/deryasarikaya/Kompass"><img src="./assets/profile/button-repository.webp" width="48%" alt="Open Kompass repository" /></a>
-      <img src="./assets/profile/button-live-demo.webp" width="46%" alt="Kompass live demo — coming soon" title="Coming soon" />
+      <a href="https://deryasarikaya.ai"><img src="./assets/profile/button-live-demo.webp" width="46%" alt="Kompass live demo — coming soon" title="Coming soon" /></a>
     </td>
     <td width="33.33%" align="center" valign="top">
       <a href="https://github.com/deryasarikaya/MoviWebApp"><img src="./assets/profile/project-moviewebapp.webp" width="100%" alt="MovieWebApp project — open repository" /></a>
