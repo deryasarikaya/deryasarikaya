@@ -8,23 +8,24 @@
 
 <br>
 
-## 🌿 A little context
-
-I spent many years working with complex automotive systems, international markets and technical problems that rarely had simple answers.
-
-Today, I use that engineering background to build practical AI products and explore how technology can make real work clearer and easier.
-
-**Living and working across different countries has shaped how I think: adaptable, curious and rarely satisfied with the obvious solution.**
-
-**I think in connections, move between worlds and rarely follow the obvious path.**
-
-<div align="center">
-  <img
-    src="./assets/profile/identity-panel.webp"
-    width="100%"
-    alt="Automotive Engineer, AI Product Builder and Independent Mind."
-  />
-</div>
+<table role="presentation">
+  <tr>
+    <td width="66%" valign="top">
+      <h2>🌿 A little context</h2>
+      <p>I spent many years working with complex automotive systems, international markets and technical problems that rarely had simple answers.</p>
+      <p>Today, I use that engineering background to build practical AI products and explore how technology can make real work clearer and easier.</p>
+      <p><strong>Living and working across different countries has shaped how I think: adaptable, curious and rarely satisfied with the obvious solution.</strong></p>
+      <p><strong>I think in connections, move between worlds and rarely follow the obvious path.</strong></p>
+    </td>
+    <td width="34%" align="center" valign="middle">
+      <img
+        src="./assets/profile/identity-panel.webp"
+        width="100%"
+        alt="Automotive Engineer, AI Product Builder and Independent Mind."
+      />
+    </td>
+  </tr>
+</table>
 
 ## 🌴 Selected projects
 
