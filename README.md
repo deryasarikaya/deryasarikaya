@@ -29,36 +29,22 @@
 <table role="presentation">
   <tr>
     <td width="33.33%" align="center" valign="top">
-      <a href="https://github.com/deryasarikaya/AI-Start-Map">
-        <img src="./assets/profile/project-ai-start-map.webp" width="100%" alt="AI Start Map project — open repository" />
-      </a>
+      <a href="https://github.com/deryasarikaya/AI-Start-Map"><img src="./assets/profile/project-ai-start-map.webp" width="100%" alt="AI Start Map project — open repository" /></a>
       <br>
-      <a href="https://github.com/deryasarikaya/AI-Start-Map">
-        <img src="./assets/profile/button-repository.webp" width="48%" alt="Open AI Start Map repository" />
-      </a>
+      <a href="https://github.com/deryasarikaya/AI-Start-Map"><img src="./assets/profile/button-repository.webp" width="48%" alt="Open AI Start Map repository" /></a>
       <img src="./assets/profile/button-live-demo.webp" width="46%" alt="AI Start Map live demo — coming soon" title="Coming soon" />
     </td>
     <td width="33.33%" align="center" valign="top">
-      <a href="https://github.com/deryasarikaya/Kompass">
-        <img src="./assets/profile/project-kompass.webp" width="100%" alt="Kompass project — open repository" />
-      </a>
+      <a href="https://github.com/deryasarikaya/Kompass"><img src="./assets/profile/project-kompass.webp" width="100%" alt="Kompass project — open repository" /></a>
       <br>
-      <a href="https://github.com/deryasarikaya/Kompass">
-        <img src="./assets/profile/button-repository.webp" width="48%" alt="Open Kompass repository" />
-      </a>
+      <a href="https://github.com/deryasarikaya/Kompass"><img src="./assets/profile/button-repository.webp" width="48%" alt="Open Kompass repository" /></a>
       <img src="./assets/profile/button-live-demo.webp" width="46%" alt="Kompass live demo — coming soon" title="Coming soon" />
     </td>
     <td width="33.33%" align="center" valign="top">
-      <a href="https://github.com/deryasarikaya/MoviWebApp">
-        <img src="./assets/profile/project-moviewebapp.webp" width="100%" alt="MovieWebApp project — open repository" />
-      </a>
+      <a href="https://github.com/deryasarikaya/MoviWebApp"><img src="./assets/profile/project-moviewebapp.webp" width="100%" alt="MovieWebApp project — open repository" /></a>
       <br>
-      <a href="https://github.com/deryasarikaya/MoviWebApp">
-        <img src="./assets/profile/button-repository.webp" width="48%" alt="Open MovieWebApp repository" />
-      </a>
-      <a href="https://moviwebapp-1lej.onrender.com">
-        <img src="./assets/profile/button-live-demo.webp" width="46%" alt="Open MovieWebApp live demo" />
-      </a>
+      <a href="https://github.com/deryasarikaya/MoviWebApp"><img src="./assets/profile/button-repository.webp" width="48%" alt="Open MovieWebApp repository" /></a>
+      <a href="https://moviwebapp-1lej.onrender.com"><img src="./assets/profile/button-live-demo.webp" width="46%" alt="Open MovieWebApp live demo" /></a>
     </td>
   </tr>
 </table>
@@ -92,15 +78,9 @@
 <br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/deryasarikaya">
-    <img src="./assets/profile/contact-linkedin.svg" height="44" alt="LinkedIn" />
-  </a>
+  <a href="https://www.linkedin.com/in/deryasarikaya"><img src="./assets/profile/contact-linkedin.svg" height="44" alt="LinkedIn" /></a>
   &nbsp;
-  <a href="https://deryasarikaya.ai">
-    <img src="./assets/profile/contact-portfolio.svg" height="44" alt="Portfolio" />
-  </a>
+  <a href="https://deryasarikaya.ai"><img src="./assets/profile/contact-portfolio.svg" height="44" alt="Portfolio" /></a>
   &nbsp;
-  <a href="https://github.com/deryasarikaya?tab=repositories">
-    <img src="./assets/profile/contact-github.svg" height="44" alt="GitHub" />
-  </a>
+  <a href="https://github.com/deryasarikaya?tab=repositories"><img src="./assets/profile/contact-github.svg" height="44" alt="GitHub" /></a>
 </p>
