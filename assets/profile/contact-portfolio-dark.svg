@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="48" viewBox="0 0 180 48" role="img" aria-labelledby="title">
+  <title id="title">Portfolio</title>
+  <rect x="1" y="1" width="178" height="46" rx="13" fill="#102A2D" stroke="#365B58" stroke-width="2"/>
+  <circle cx="27" cy="24" r="12" fill="none" stroke="#6AB8A4" stroke-width="2"/>
+  <path d="M31.8 18.6 29 26.2l-7.6 2.8 2.8-7.6 7.6-2.8Z" fill="#6AB8A4"/>
+  <circle cx="26.6" cy="23.8" r="1.7" fill="#102A2D"/>
+  <text x="53" y="30" font-family="Arial, sans-serif" font-size="16" fill="#E5E5D3">Portfolio</text>
+</svg>

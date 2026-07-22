@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="48" viewBox="0 0 180 48" role="img" aria-labelledby="title">
+  <title id="title">LinkedIn</title>
+  <rect x="1" y="1" width="178" height="46" rx="13" fill="#102A2D" stroke="#365B58" stroke-width="2"/>
+  <rect x="15" y="12" width="24" height="24" rx="5" fill="#6AB8A4"/>
+  <text x="27" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#102A2D">in</text>
+  <text x="53" y="30" font-family="Arial, sans-serif" font-size="16" fill="#E5E5D3">LinkedIn</text>
+</svg>
