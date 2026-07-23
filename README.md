@@ -41,7 +41,7 @@ Three projects. Three different ways of turning unstructured input into useful d
 
 ### 01 / AI Start Map
 
-*Finding the strongest AI starting point inside real work.*
+<p><em>Finding the strongest AI starting point inside real work.</em></p>
 
 An interview-driven product that maps a workflow, surfaces bottlenecks and turns the best opportunity into an actionable AI starting point — grounded in the way the work is actually done.
 
@@ -53,9 +53,11 @@ An interview-driven product that maps a workflow, surfaces bottlenecks and turns
   <img src="https://img.shields.io/badge/status-building-2A9D8F?style=flat-square" alt="AI Start Map status: building" />
 </p>
 
+<br>
+
 ### 02 / Kompass
 
-*Turning voice notes into patterns that become visible over time.*
+<p><em>Turning voice notes into patterns that become visible over time.</em></p>
 
 A voice-first system that transforms WhatsApp voice notes into structured longitudinal signals around mood, energy, sleep, stress and more — without forcing people into another app or form.
 
@@ -67,9 +69,11 @@ A voice-first system that transforms WhatsApp voice notes into structured longit
   <img src="https://img.shields.io/badge/status-building-2A9D8F?style=flat-square" alt="Kompass status: building" />
 </p>
 
+<br>
+
 ### 03 / MovieWebApp
 
-*A complete backend workflow, from external data to persistent user state.*
+<p><em>A complete backend workflow, from external data to persistent user state.</em></p>
 
 A Flask-based movie collection app with external data, ratings, CRUD workflows and persistent storage — an important step in building reliable backend systems end to end.
 
@@ -80,6 +84,8 @@ A Flask-based movie collection app with external data, ratings, CRUD workflows a
   <a href="https://moviwebapp-1lej.onrender.com"><img src="https://img.shields.io/badge/Live%20demo-open-2A9D8F?style=flat-square" alt="Open MovieWebApp live demo" /></a>
   <img src="https://img.shields.io/badge/status-live-2A9D8F?style=flat-square" alt="MovieWebApp status: live" />
 </p>
+
+<br>
 
 ---
 
