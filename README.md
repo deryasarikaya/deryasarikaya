@@ -9,19 +9,17 @@
   </picture>
 </div>
 
-<br>
-
-<h3 align="center">Turning messy real-world problems into useful AI.</h3>
-
 <p align="center">
-  <sub>Engineering judgment&nbsp;&nbsp;·&nbsp;&nbsp;grounded AI&nbsp;&nbsp;·&nbsp;&nbsp;practical delivery</sub>
+  <img src="https://img.shields.io/badge/Automotive%20Engineer-244F47?style=for-the-badge" alt="Automotive Engineer" />
+  <img src="https://img.shields.io/badge/AI%20Product%20Builder-71866B?style=for-the-badge" alt="AI Product Builder" />
+  <img src="https://img.shields.io/badge/Independent%20Mind-927F55?style=for-the-badge" alt="Independent Mind" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Automotive%20Engineer-0D5B55?style=flat-square" alt="Automotive Engineer" />
-  <img src="https://img.shields.io/badge/AI%20Product%20Builder-2A9D8F?style=flat-square" alt="AI Product Builder" />
-  <img src="https://img.shields.io/badge/Independent%20Mind-8A7E55?style=flat-square" alt="Independent Mind" />
-</p>
+## Toolkit
+
+**AI systems** — RAG · AI Agents · Voice AI · Structured Outputs · Whisper · FAISS<br>
+**Backend** — Python · FastAPI · REST APIs<br>
+**Data & delivery** — PostgreSQL · SQLite · Git
 
 ---
 
@@ -91,24 +89,20 @@ A Flask-based movie collection app with external data, ratings, CRUD workflows a
 
 ## What I’m exploring
 
-- **Agentic AI** — systems that can reason, use tools and move work forward.
-- **RAG & knowledge** — answers grounded in real, traceable sources.
-- **Voice-first AI** — natural input transformed into meaningful structure.
-- **Structured outputs** — reliable data, explicit contracts and less chaos.
-- **Practical automation** — AI that removes friction from everyday work.
-
-## Toolkit
-
-**AI & orchestration** — RAG · agents · Whisper · structured outputs · prompt design<br>
-**Backend** — Python · FastAPI · Flask · REST APIs<br>
-**Data & delivery** — PostgreSQL · SQLite · AWS · Git
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/exploring-dark.webp">
+  <img
+    src="./assets/profile/exploring-light.webp"
+    width="100%"
+    alt="Five text-free line illustrations representing AI agents, knowledge, voice AI, structured systems and practical automation."
+  />
+</picture>
 
 ---
 
 ## The way I build
 
-> I enjoy building AI that feels genuinely useful.<br>
-> **Less hype. More real-world impact.**
+> I enjoy building AI that feels genuinely useful.
 
 <br>
 
