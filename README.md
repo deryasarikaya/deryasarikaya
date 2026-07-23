@@ -89,14 +89,68 @@ A Flask-based movie collection app with external data, ratings, CRUD workflows a
 
 ## What I’m exploring
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/exploring-dark.webp">
-  <img
-    src="./assets/profile/exploring-light.webp"
-    width="100%"
-    alt="Five text-free line illustrations representing AI agents, knowledge, voice AI, structured systems and practical automation."
-  />
-</picture>
+<table>
+  <tr>
+    <td width="72" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/exploring-icons/agents-dark.webp">
+        <img src="./assets/profile/exploring-icons/agents-light.webp" width="52" alt="AI agents and tools" />
+      </picture>
+    </td>
+    <td>
+      <strong>AI agents &amp; tools</strong><br>
+      <sub>Systems that can reason and take action.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="72" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/exploring-icons/knowledge-dark.webp">
+        <img src="./assets/profile/exploring-icons/knowledge-light.webp" width="52" alt="RAG and knowledge" />
+      </picture>
+    </td>
+    <td>
+      <strong>RAG &amp; knowledge</strong><br>
+      <sub>Answers grounded in real, traceable data.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="72" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/exploring-icons/voice-dark.webp">
+        <img src="./assets/profile/exploring-icons/voice-light.webp" width="52" alt="Voice-first AI" />
+      </picture>
+    </td>
+    <td>
+      <strong>Voice-first AI</strong><br>
+      <sub>Natural input, meaningful output.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="72" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/exploring-icons/structured-dark.webp">
+        <img src="./assets/profile/exploring-icons/structured-light.webp" width="52" alt="Structured outputs" />
+      </picture>
+    </td>
+    <td>
+      <strong>Structured outputs</strong><br>
+      <sub>Reliable data, clear contracts, less chaos.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="72" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/exploring-icons/automation-dark.webp">
+        <img src="./assets/profile/exploring-icons/automation-light.webp" width="52" alt="Practical automation" />
+      </picture>
+    </td>
+    <td>
+      <strong>Practical automation</strong><br>
+      <sub>AI that removes friction for small businesses.</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
